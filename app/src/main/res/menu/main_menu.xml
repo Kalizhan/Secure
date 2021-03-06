@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_list"
+        android:icon="@drawable/ic_baseline_format_list_numbered_24"
+        android:title="Тізім" />
+
+    <item
+        android:id="@+id/nav_guest"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Жаңа қонақ" />
+
+    <item
+        android:id="@+id/nav_qr_code"
+        android:icon="@drawable/ic_baseline_featured_video_24"
+        android:title="Оқушылар" />
+</menu>

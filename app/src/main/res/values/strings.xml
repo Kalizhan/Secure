@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="toolbar">Тізім</string>
+    <string-array name="spinner_list1">
+        <item></item>
+        <item>Волейбол</item>
+        <item>Тіл курсы</item>
+        <item>Айти курсы</item>
+        <item>Тәрбие сағаты</item>
+        <item>Қонаққа</item>
+        <item>Басқа</item>
+    </string-array>
+    <string-array name="spinner_list2">
+        <item></item>
+        <item>Алишер ағай</item>
+        <item>Рүстем ағай</item>
+        <item>Жанат ағай</item>
+        <item>Бақытжан ағай</item>
+        <item>Басқа</item>
+    </string-array>
+</resources>
